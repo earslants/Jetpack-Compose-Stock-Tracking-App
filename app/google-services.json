@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531538511518",
+    "project_id": "stoktakip-63f30",
+    "storage_bucket": "stoktakip-63f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531538511518:android:428e84688d27b9672b1d8f",
+        "android_client_info": {
+          "package_name": "com.example.stoktakip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABB0_1V6dPN9-G7Wdprjazv5ObBiSR7LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
